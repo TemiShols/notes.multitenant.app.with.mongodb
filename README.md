@@ -37,7 +37,13 @@ HEADER_USER=X-User-ID
 
 MONGODB_URI points to your local Mongo service
 
-DB_NAME is the database FastAPI will create automatically
+OR
+
+You get org_id when creating an organization
+
+You get user_id when creating a user inside that organization
+
+
 
 The two header variables are used for tenant/user identification
 5.open localhost:8000/docs for api endpoint
