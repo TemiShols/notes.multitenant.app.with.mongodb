@@ -46,4 +46,5 @@ You get user_id when creating a user inside that organization
 
 
 The two header variables are used for tenant/user identification
-5.open localhost:8000/docs for api endpoint
+
+6.open localhost:8000/docs for api endpoint
